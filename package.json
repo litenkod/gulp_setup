@@ -1,0 +1,22 @@
+{
+  "name": "gulp_setup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/litenkod/gulp_setup.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/litenkod/gulp_setup/issues"
+  },
+  "homepage": "https://github.com/litenkod/gulp_setup#readme",
+  "dependencies": {
+    "gulp": "^4.0.2"
+  }
+}
